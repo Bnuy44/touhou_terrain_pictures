@@ -1,0 +1,347 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_combat_terrain_wabbit_test"
+		texturefile = "gfx/interface/gnsky/combat_wabbit_test.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_human_capital" 
+		texturefile = "gfx/interface/gnsky/combat_human.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_suburban_villages"
+		texturefile = "gfx/interface/gnsky/combat_suburban_villages.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_abandonned_villages"
+		texturefile = "gfx/interface/gnsky/combat_abandonned_villages.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_venus"
+		texturefile = "gfx/interface/gnsky/combat_venus.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_bamboo"
+		texturefile = "gfx/interface/gnsky/combat_bamboo.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_combat_terrain_heaven"
+		texturefile = "gfx/interface/gnsky/combat_heaven.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_combat_terrain_magic_forest"
+		texturefile = "gfx/interface/gnsky/combat_magic_forest.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_magic_clearing"
+		texturefile = "gfx/interface/gnsky/combat_magic_forest_clearing.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_genso_peaks"
+		texturefile = "gfx/interface/gnsky/combat_genso_peaks.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_genso_highlands"
+		texturefile = "gfx/interface/gnsky/combat_genso_highlands.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_genso_ravine"
+		texturefile = "gfx/interface/gnsky/combat_genso_ravine.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_nether_plains"
+		texturefile = "gfx/interface/gnsky/combat_nether_plains.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_nether_forests"
+		texturefile = "gfx/interface/gnsky/combat_nether_forests.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_nether_mountains"
+		texturefile = "gfx/interface/gnsky/combat_nether_mountains.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_combat_terrain_nuclear_wasteland"
+		texturefile = "gfx/interface/gnsky/combat_nuclear_wasteland.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_genso_farmlands"
+		texturefile = "gfx/interface/gnsky/combat_genso_farmlands.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_sunflowerfields"
+		texturefile = "gfx/interface/gnsky/combat_sunflowerfields.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_sanzu_bank"
+		texturefile = "gfx/interface/gnsky/combat_sanzu_river.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_moriya_shrine"
+		texturefile = "gfx/interface/gnsky/combat_moriya_shrine.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_hakurei_shrine"
+		texturefile = "gfx/interface/gnsky/combat_hakurei_shrine.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_old_hakurei_shrine"
+		texturefile = "gfx/interface/gnsky/combat_old_hakurei_shrine.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_silent_temple"
+		texturefile = "gfx/interface/gnsky/combat_silent_temple.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_higan"
+		texturefile = "gfx/interface/gnsky/combat_higan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_animal_realm"
+		texturefile = "gfx/interface/gnsky/combat_animal_realm.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_scarlet_main_island"
+		texturefile = "gfx/interface/gnsky/combat_scarlet_main_island.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_scarlet_mansion_gate"
+		texturefile = "gfx/interface/gnsky/combat_scarlet_mansion_gate.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_scarlet_mansion_foyer"
+		texturefile = "gfx/interface/gnsky/combat_scarlet_mansion_foyer.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_scarlet_clocktower"
+		texturefile = "gfx/interface/gnsky/combat_scarlet_clocktower.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_scarlet_voile_library"
+		texturefile = "gfx/interface/gnsky/combat_scarlet_voile_library.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_scarlet_basement"
+		texturefile = "gfx/interface/gnsky/combat_scarlet_basement.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_cirno_ice_house"
+		texturefile = "gfx/interface/gnsky/combat_cirno_ice_house.dds"
+	}
+
+	spriteType = { 
+		name = "GFX_combat_terrain_scarlet_mountains"
+		texturefile = "gfx/interface/gnsky/combat_scarlet_mountains.dds"
+	}
+
+	spriteType = { 
+		name = "GFX_combat_terrain_baleful_plains"
+		texturefile = "gfx/interface/gnsky/combat_baleful_plains.dds"
+	}
+
+	spriteType = { 
+		name = "GFX_combat_terrain_perilous_forests"
+		texturefile = "gfx/interface/gnsky/combat_perilous_forests.dds"
+	}
+
+	spriteType = { 
+		name = "GFX_combat_terrain_hellish_bumps"
+		texturefile = "gfx/interface/gnsky/combat_hellish_bumps.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_nuclear_furnace"
+		texturefile = "gfx/interface/gnsky/combat_nuclear_furnace.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_nuclear_reactor_core"
+		texturefile = "gfx/interface/gnsky/combat_nuclear_reactor_core.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_remains_blazing_hell"
+		texturefile = "gfx/interface/gnsky/combat_remains_blazing_hell.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_pc_plains"
+		texturefile = "gfx/interface/gnsky/combat_pc_plains.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_pc_forests"
+		texturefile = "gfx/interface/gnsky/combat_pc_forests.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_pc_hills"
+		texturefile = "gfx/interface/gnsky/combat_pc_hills.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_makai_city"
+		texturefile = "gfx/interface/gnsky/combat_makai_city.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_kappapolis"
+		texturefile = "gfx/interface/gnsky/combat_kappapolis.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_palace_earth_spirits"
+		texturefile = "gfx/interface/gnsky/combat_palace_earth_spirits.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_under_world"
+		texturefile = "gfx/interface/gnsky/combat_under_world.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_old_hell"
+		texturefile = "gfx/interface/gnsky/combat_old_hell.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_fantastic_blowhole"
+		texturefile = "gfx/interface/gnsky/combat_fantastic_blowhole.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_deep_road_hell"
+		texturefile = "gfx/interface/gnsky/combat_deep_road_hell.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_geysers"
+		texturefile = "gfx/interface/gnsky/combat_geysers.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_misty_lake_shore"
+		texturefile = "gfx/interface/gnsky/combat_misty_lake_shore.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_youkai_forest"
+		texturefile = "gfx/interface/gnsky/combat_youkai_forest.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_bamboo_clearing"
+		texturefile = "gfx/interface/gnsky/combat_bamboo_clearing.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_doremy_dream_world"
+		texturefile = "gfx/interface/gnsky/combat_doremy_dream_world.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_space_vessel"
+		texturefile = "gfx/interface/gnsky/combat_space_vessel.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_lunar_capital"
+		texturefile = "gfx/interface/gnsky/combat_lunar_capital.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_lunar_seas"
+		texturefile = "gfx/interface/gnsky/combat_lunar_seas.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_genso_grasslands"
+		texturefile = "gfx/interface/gnsky/combat_genso_grasslands.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_genso_hills"
+		texturefile = "gfx/interface/gnsky/combat_genso_hills.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_genso_coastlines"
+		texturefile = "gfx/interface/gnsky/combat_genso_coastlines.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_genso_wetlands"
+		texturefile = "gfx/interface/gnsky/combat_genso_wetlands.dds"
+	}
+
+	spriteType = {
+		name = "GFX_combat_terrain_genso_mountains"
+		texturefile = "gfx/interface/gnsky/combat_genso_mountains.dds"
+	}
+
+
+	
+}
+	
+
+
+
+
+#combat_hakurei_shrine.dds
+#combat_moriya_shrine.dds
+#combat_old_hakurei_shrine.dds
+#combat_silent_temple.dds
+
+
+
+#so small little quirk. Navigate in explorer on the left, GFX\interface\gnsky
+#see a problem? i didnt know you had the image ready >w<
+#hehe...so marshy :3 do u see it :33 i fixed it nya?
+#my error earlier was i used the wrong type id on name, but it shouldn't matter for texture file, checking to see if im right
+
+#sprite type is the image variable
+#name is setting the ID of the variable
+#name ONLY WORKS if you type 'GFX_combat_terrain_' before your type ID
+#textfile fetches the actual image to apply to your type
+#all the files currently are in gfx/interface/gnsky/
+#I will change that one moment
+#so you just have to rename your image to its ID and it will find it automatically?
+#wanna try it? come to terrain.txt
+
+
+#	spriteType = {
+#		name = "GFX_combat_TYPE_ID"
+#		texturefile = "gfx/interface/gnsky/combat_TYPE_ID.dds"
+#	}
+#           Every time you create a new portrait, name it combat_XXX.dds

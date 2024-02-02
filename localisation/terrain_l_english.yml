@@ -1,0 +1,188 @@
+﻿l_english:
+ wabbit_test: "Veiled Lunar Regress" 
+ wabbit_test_desc: "Lunar regress terrain represents vast swaths of areas where the horizon show only endless bumps of lunar regolith. This land is desolate and utterly pure."
+
+ venus: "Sulfurian Wastes"
+ venus_desc: "Sulfurian waste terrain represents areas of rugged rocky landscapes dotted with towering sulfur spires releasing toxic fumes. Only gods and dumb fairies fester here."
+
+ bamboo: "Thick Bamboo Haze"
+ bamboo_desc: "Thick bamboo haze terrain represents areas of groves permeating every direction. The skies of the terrain get blotted by towering bamboo shoots often plunging areas into decades of darkness."
+
+ heaven: "Celestial Floating Islands"
+ heaven_desc: "Celestia floating islands terrain represents warm mountainous peaks and rolling fields alike far above the skies. This terrain is seperated by a great fall to Earth."
+
+ magic_forest: "Magic Forest"
+ magic_forest_desc: "Magic forest terrain represents areas of untamed wilderness where supernatural beasts and fairies wander in flux. The terrain is ancient making navigation tedious."
+
+ magic_clearing: "Magic Forest Clearing"
+ magic_clearing_desc: "Magic forest clearing terrain represents areas of forests where pathways wind into great flatlands walled in by great trees. The groves create beachheads for civilization within the great forests."
+
+ genso_peaks: "Youkai Mountains"
+ genso_peaks_desc: "Youkai mountains terrain represent areas of steady winding paths and great hills up the greatest heights of Gensokyo. This terrain harbours much fauna.  "
+
+ genso_ravine: "Ravine"
+ genso_ravine_desc: "Ravine terrain represents areas of hazardous rocky cliffs and tumultuous waterfalls. The terrain differents to hills by standing leveled yet jagged." #im watching u i forgot the word i wanted to use ;w;
+
+ nether_plains: "Nether"
+ nether_plains_desc: "Nether terrain represents areas of farmland and grassland littered with ice or pettles."
+
+ nether_forests: "Cursed Woodlands"
+ nether_forests_desc: "Cursed woodlands terrain represents areas of woodlands permeating with ghastly spirits. The terrain has elegant trees paired with lush shrublands."
+
+ nether_mountains: "Haunted Mountains"
+ nether_mountains_desc: "Haunted mountains terrain represent areas of steep mountains lacking companion flora and freezing up."
+
+ #nuclear_wasteland: "neetoneteeto nuked us"
+ #nuclear_wasteland_desc: "we're doomed\nyou're not supposed to have seen this"
+ 
+ genso_farmlands: "Farmlands"
+ genso_farmlands_desc: "Farmlands terrain represents highly cultivated areas where the landscape is dominated by agriculture and silly little youkai."
+
+ sunflowerfields: "Sunflower Fields"
+ sunflowerfields_desc: "Sunflower fields terrain represents areas of majestic golden waves cascading through flatland. The area has been saturated by flora of every kind and precarious thrives."
+
+ sanzu_bank: "Sanzu River"
+ sanzu_bank_desc: "Sanzu river terrain represent areas where a great river sadly surges through. The dead illuminate the landscape."
+
+ human_capital: "Human Metropolitan"
+ human_capital_desc: "Human metropolitan terrain represents an area of enormous labyrinths made with intelligent structures cradled within great walls. This terrain was once terrorized by the forests to the south."
+
+ suburban_villages: "Suburban Villages"
+ suburban_villages_desc: "Suburban terrain represents areas of rolling grasslands or rice fields with an increasing presence of emboldened human settlers."
+
+ abandonned_villages: "Abandoned Settlement"
+ abandonned_villages_desc: "Abandoned settlement terrain represents areas of an inexplicable phenomena. This terrain is unpopulated to the human eye and yet the settlements grow and prosper."
+
+ #hakurei_shrine: "Hakurei Shrine"
+ #hakurei_shrine_desc: "Forest-clad hills bounce around a desolate refugee for worship. One of these inconspicuous hillsides happens to be critical point for the barrier. Humans beware."
+
+ #moriya_shrine: "Moriya Shrine"
+ #moriya_shrine_desc: "Tucked between the highest snowy peaks and the wildest forests of Gensokyo, this province has been graced with charming fields and a renown pilgrimage to the Moriyan Gods. Human and Youkai welcome."
+
+ #silent_temple: "Silent Temple"
+ #silent_temple_desc: "The Silent Temple is rowdy and teeming with activity. Ancient spirits stalk the perimeter."
+
+ #old_hakurei_shrine: "Old Hakurei Shrine"
+ #old_hakurei_shrine_desc: "Somewhere in this province, there stands an aging shrine, unforgotten. Trading is commonplace."
+
+ higan: "Sanzu River"
+ higan_desc: "Sanzu river terrain represent areas where a great river sadly surges through. The dead illuminate the landscape."
+
+ makai_city: "Makai Metropolis"
+ makai_city_desc: "Makai metropolis terrain represents an area where the natural landscape has been completely overwritten by highrises. The terrain surrenders to hell's constructs."
+
+ kappapolis: "Industrial Sprawl"
+ kappapolis_desc: "Industrial sprawl terrain represents areas where the natural landscape has been completely tarnished by engineer's plight visible even from the troposphere."
+
+ baleful_plains: "Baleful Plains"
+ baleful_plains_desc: "Baleful plains terrain represents areas of spider lilies marching across the desolate plains an eternity."
+
+ perilous_forests: "Perilous Forests"
+ perilous_forests_desc: "Perilous forests terrain represents areas that are positively perilous with sad forests providing a home for evil spirits. Only the strongest survive."
+
+ hellish_bumps: "Rocky Desolation"
+ hellish_bumps_desc: "Rocky desolation terrain represents areas of freezing rocky wastelands. Inhabitants are condemned to pile rocks for eternity. Beware."
+
+ pc_plains: "Old Grasslands"
+ pc_plains_desc: "Old grasslands terrain represents areas of flourishing flatlands teeming with shrubs. The terrain is picturesque and appreciated."
+
+ pc_forests: "Old Woodlands"
+ pc_forests_desc: "Old woodlands terrain represents areas of thin and wide trees alike packed tightly within an old dimension. Wonders may be hidden within this terrain."
+
+ pc_hills: "Old Hills"
+ pc_hills_desc: "Old hills terrain represents areas dominated by a rolling landscape of shifting elevation. Unlike the highland terrain hills represent areas with greater floral density. It feels abyssal."
+
+ animal_realm: "Animal Metropolis"
+ animal_realm_desc: "Animal metropolis terrain represents areas of soaring skyscrapers stretching for miles. This terrain bustles but differs from other metropolitan areas."
+
+ scarlet_main_island: "Scarlet Island"
+ scarlet_main_island_desc: "Scarlet island terrain represents areas of quiet flat land with strong breezes and immaculately trimmed grass. At the middle of this terrain sits a great mansion."
+
+ #scarlet_mansion_gate: "Scarlet Mansion Gate"
+ #scarlet_mansion_gate_desc: "Gone."
+
+ #scarlet_mansion_foyer: "Scarlet Mansion Foyer"
+ #scarlet_mansion_foyer_desc: "Gone."
+
+ #scarlet_clocktower: "Scarlet Clocktower"
+ #scarlet_clocktower_desc: "Gone."
+
+ #scarlet_voile_library: "Patchouli's Library"
+ #scarlet_voile_library_desc: "Gone."
+
+ #scarlet_basement: "Flandre's Room"
+ #scarlet_basement_desc: "Gone."
+
+ #cirno_ice_house: "Cirno's Ice House"
+ #cirno_ice_house_desc: "Defunct. I'll bring you back, baka."
+
+ #scarlet_mountains: "Scarlet Mountains"
+ #scarlet_mountains_desc: "Defunct. Miss them."
+
+ nuclear_furnace: "Nuclear Reactor"
+ nuclear_furnace_desc: "Nuclear reactor terrain represents an area of cavernous ravines fitted and plated to contain a great source of energy. Pipelines and thick wires slither out and loop back into the bedrock."
+
+ nuclear_reactor_core: "Singularity"
+ nuclear_reactor_core_desc: "Singularity terrain represents an area of absolute uninhabitable death. This terrain is a literal nuclear explosion - only a birdbrain would live here."
+
+ remains_blazing_hell: "Remains of Blazing Hell"
+ remains_blazing_hell_desc: "Remains of blazing hell is terrain represented by areas of hell unleashed. Unlike in underworld terrain, the rock is boils and lapses into itself as an inferno roars."
+
+ palace_earth_spirits: "Palace of the Earth Spirits"
+ palace_earth_spirits_desc: "Palace of the Earth Spirits represents areas of metropolitan type citystates founded by the Satori. The terrain is spacious and popular in hell."
+
+ under_world: "The Underworld"
+ under_world_desc: "Old hell terrain represents areas of cavernous hollow ravines deep under the Earth. Diverse geology observed but sunlight will never." 
+
+ old_hell: "Old Hell" 
+ old_hell_desc: "Old hell terrain represents areas of cavernous hollow ravines deep under the Earth."
+
+ #fantastic_blowhole: "Fantastic Blowhole"
+ #fantastic_blowhole_desc: "one of the stages of touhou 11"
+
+ #deep_road_hell: "The Deep Road to Hell"
+ #deep_road_hell_desc: "another stage of touhou 11"
+
+ geysers: "Geysers"
+ geysers_desc: "Geyser terrain represents areas of barren land generally lacking in vegetation or even shrubs. The terrain has iconic hot spring locations. Youkai like to pop in and out for extended periods of time."
+
+ misty_lake_shore: "Misty Shoreline"
+ misty_lake_shore_desc: "Misty shoreline terrain represents areas of vicious vapour dampening the terrain that meats the lake, often leaving the area freezing and dark."
+
+ youkai_forest: "Youkai Forest"
+ youkai_forest_desc: "Youkai forest terrain represents areas of...wait this isn't in the mod anymore. I see you snooping :3"
+
+ bamboo_clearing: "Bamboo Clearing"
+ bamboo_clearing_desc: "Bamboo clearing terrain represents areas of bamboo sprawl meeting winding clear pathways and spaces of empty flatland."
+
+ doremy_dream_world: "Dreamscape"
+ doremy_dream_world_desc: "Dreamscape terrain represents areas of another world...or maybe here, but not quite..."
+
+ space_vessel: "Vacuum-sealed Tin Labyrinth"
+ space_vessel_desc: "Vacuum-sealed tin labyrinth terrain represents terrain composed of various metal alloys mysteriously floating through the cosmos and time itself."
+
+ lunar_capital: "Lunar Capital"
+ lunar_capital_desc: "Lunar capital terrain represents an area cloaking a great hidden city on the far side of The Moon."
+
+ lunar_seas: "Unveiled Lunar Regress"
+ lunar_seas_desc: "Lunar sea terrain represents areas on The Moon behind the veil with water so still that time seems to stop. This terrain is utterly and wholly pure."
+
+ genso_grasslands: "Grasslands"
+ genso_grasslands_desc: "Grasslands terrain represents areas of farmland where the vegetation is dominated by grass."
+
+ genso_hills: "Hills"
+ genso_hills_desc: "Hills terrain represents areas dominated by a rolling landscape of shifting elevation. Unlike the highland terrain hills represent areas with greater floral density."
+
+ genso_coastlines: "Coastline"
+ genso_coastlines_desc: "Coastline terrain represents the narrow areas where the outside world meets the barrier. The terrain is very arbitary."
+
+ genso_wetlands: "Wetlands"
+ genso_wetlands_desc: "Wetland terrain represents wads of swamp ripe with vegetation. The terrain is populated by ominous youkai, making it dangerous for human life."
+
+ genso_mountains: "Mountains"
+ genso_mountains_desc: "Mountain terrain represents areas mainly occupied by steady mountain ranges and wide passes, often on high altitude and quite freezing."
+
+ genso_highlands: "Youkai Highlands"
+ genso_highlands_desc: "Youkai highlands represent areas dominated by rolling scenic hills with little variation or foliage to disturb the view."
+ 
+
